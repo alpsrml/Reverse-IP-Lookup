@@ -1,6 +1,6 @@
 # Reverse-IP-Lookup
 
-English Explanation: Reverse IP Lookup with ViewDNS. The tool is very easy to use, folks. It can bring other websites in front of you in the dns to which a website you enter is connected. You can find the results in the "list.txt" file in the same directory.
+English Description: Reverse IP Lookup with ViewDNS. The tool is very easy to use, folks. It can bring other websites in front of you in the dns to which a website you enter is connected. You can find the results in the "list.txt" file in the same directory.
 
 Setup And Usage:
 
