@@ -4,9 +4,9 @@ English Explanation: Reverse IP Lookup with ViewDNS. The tool is very easy to us
 
 Setup And Usage:
 
-  python -m pip install -r requirements.txt
+  `python -m pip install -r requirements.txt`
 
-  python Viewdns.py
+  `python Viewdns.py`
   
   Install get-pip.py if you get errors in pip installation
   
@@ -17,9 +17,9 @@ Türkçe Açıklama: Aracın kullanımı çok basittir dostlar. Girdiğiniz bir 
 
 Kurulum Ve Kullanımı:
 
-  python -m pip install -r requirements.txt
+  `python -m pip install -r requirements.txt`
 
-  python Viewdns.py
+  `python Viewdns.py`
   
   Eğerki pip kurulumunda hata alırsanız içindeki get-pip.py dosyasını kurun
   
