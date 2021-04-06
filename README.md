@@ -12,6 +12,7 @@ Setup And Usage:
   
 Photo from tool
   
+  ![alt text](https://i.hizliresim.com/Y7IBaH.png)
 
 Türkçe Açıklama: Aracın kullanımı çok basittir dostlar. Girdiğiniz bir web sitesinin bağlı olduğu dnsdeki diğer web sitelerini sizin önünüze getirebilir. Sonuçları aynı dizindeki "list.txt" dosyada bulabilirsniz.
 
@@ -24,4 +25,6 @@ Kurulum Ve Kullanımı:
   Eğerki pip kurulumunda hata alırsanız içindeki get-pip.py dosyasını kurun
   
 Araçtan Bir Fotoğraf
+
+  ![alt text](https://i.hizliresim.com/Y7IBaH.png)
   
