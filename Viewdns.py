@@ -33,5 +33,5 @@ while True:
         for r in bol:
             a = len(str(r)) - 10
             dosya = open("list.txt","a")
-            dosya.write(r[0:a])
+            dosya.write(r[0:a]+"\n")
             dosya.close
