@@ -12,7 +12,7 @@ Setup And Usage:
   
 Photo from tool
   
- (https://i.hizliresim.com/Y7IBaH.png)
+ [img]https://i.hizliresim.com/Y7IBaH.png[/img]
 
 Türkçe Açıklama: Aracın kullanımı çok basittir dostlar. Girdiğiniz bir web sitesinin bağlı olduğu dnsdeki diğer web sitelerini sizin önünüze getirebilir. Sonuçları aynı dizindeki "list.txt" dosyada bulabilirsniz.
 
@@ -26,5 +26,5 @@ Kurulum Ve Kullanımı:
   
 Araçtan Bir Fotoğraf
 
-  (https://i.hizliresim.com/Y7IBaH.png)
+  [img]https://i.hizliresim.com/Y7IBaH.png[/img]
   
